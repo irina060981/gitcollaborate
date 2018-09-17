@@ -1,1 +1,2 @@
-This is initial file
+This is initial file.
+File is modified by user1.
